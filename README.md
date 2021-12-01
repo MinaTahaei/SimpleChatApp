@@ -10,7 +10,7 @@ A fun, simple web-based chat app, made with Node.js and Websockets. Compression 
     "websocket-extensions": "^0.1.4"
 ## How to run?
 ```
-node front-server.js
+node chat-server.js
 
 localhost:1337/frontend.html
 ```
